@@ -1,0 +1,16 @@
+img {
+    text-align: center;
+    height: 250px;
+    width: 250px;
+}
+
+#IMG {
+    height: 500px;
+    width: 500px;
+}
+#HULACAROUSEL img{
+    text-align: center;
+}
+#HULACAROUSEL {
+    background-color: greenyellow;
+}
